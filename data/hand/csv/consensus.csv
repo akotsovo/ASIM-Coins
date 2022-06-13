@@ -1,0 +1,4 @@
+,Consens,Bitcoin,Ethereum,Tether,Ripple,Solana,Terra Luna,Cardano,Avalanche,Stellar,Monero
+0,Proof-of-Work,1,1,1,0,0,0,0,0,0,1
+1,Proof-of-Stake,0,0,1,0,1,1,1,1,0,0
+2,custom,0,0,0,1,0,0,0,0,1,0
