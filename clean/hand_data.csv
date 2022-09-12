@@ -1,0 +1,21 @@
+Characteristics,Bitcoin,Ethereum,Tether,Ripple,Solana,Cardano,Avalanche,Stellar,Monero
+Proof-of-Work,1,1,1,0,0,0,0,0,1
+Proof-of-Stake,0,0,1,0,1,1,1,0,0
+custom consens,0,0,0,1,0,0,0,1,0
+Public Blockchain,1,1,1,1,1,1,1,1,1
+Private Blockchain,0,0,0,0,0,0,0,0,0
+Consortium Blockchain,0,0,0,0,0,0,0,0,0
+Own Blockhain,1,1,0,o,1,1,1,0,0
+Other Blockchain,0,0,"Bitcoin, Ethereum, EOS, Tron, Algorand, OMG Network",0,0,0,0,0,CryptoNote
+No Blockchain,0,0,0,1,0,0,0,1,0
+binance,1,1,1,1,1,1,1,1,1
+FTX,1,1,1,1,1,1,1,1,1
+CoinBase Exchange,1,1,1,1,1,1,1,1,1
+Kraken,1,1,1,1,1,1,1,1,1
+KuCoin,1,1,1,1,1,1,1,1,1
+Gate.io,1,1,1,1,1,1,1,1,1
+Huobi Global,1,1,1,1,1,1,1,1,1
+Bitfinex,1,1,1,1,1,1,1,1,1
+Crypto.com Exchange,1,1,1,1,1,1,1,1,1
+application,"paymnet', 'money exchange', 'money transfer'","dApps', 'smart contracts', 'coin hosting'","bound to fiat currency', 'payment', 'money exchange', 'money_transfer'","Currency exchange intermediaries', 'currency exchange', 'valuables exchange'","dApps', 'network fee payments'","anonymous payments', 'untracable payments'","deFi platform', 'smart contracts', 'network fee payments', 'other blockhain support', ""ethereum toolkit support""","create digital representations of money', 'send money', 'trade money'",
+persons,'Satoshi Nakamoto',"'Vitalik Buterin', 'Gavin Wood', 'Mihai Alisie', 'Amir Chetrit', 'Anthony Di Iorio', 'Charles Hoskinson', 'Joseph Lubin', 'Jeffrey Wilcke'","'Brock Pierce', 'Reeve Collins', 'Craig Sellars'","'Jed McCale', 'Chris Larsen'","'Anatoly Yakovenko', 'Greg Fitzgerald'",'Charles Hoskinson',"'Emin Guen Sirer', 'Kevin Sekniqi', 'Ted Yin'","'Jed McCaleb', 'Denelle Dixon', 'Joyce Kim'","Nicolas van Saberhagen', 'Riccardo Spagni'"
